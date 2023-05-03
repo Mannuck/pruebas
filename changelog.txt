@@ -1,0 +1,39 @@
+------------------------------------------------------
+
+	Monarch Admin & Frontend Templates
+
+------------------------------------------------------
+
+Version 1.2.0 - 3.12.2014 ( New Release )
+
+	- Various small bug fixes
+
+	- Added the following new page examples:
+
+	   1. View profile
+	   2. FAQ section
+	   3. Auto menu
+	   4. Invoice
+	   5. Blog posts list
+	   6. Pricing tables
+	   7. Portfolio gallery
+	   8. Portfolio masonry
+
+	- Added the following new features:
+
+	   1. Slidebars
+	   2. Excanvas chat sidebar
+	   3. Excanvas statistics sidebar
+	   4. Fullscreen button widget
+
+------------------------------------------------------
+
+Version 1.1.0 - 28.11.2014 ( New Release )
+
+	- Added AngularJS admin template example
+
+------------------------------------------------------
+
+Version 1.0.0 - 26.11.2014 ( Initial release )
+
+------------------------------------------------------
